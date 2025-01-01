@@ -59,11 +59,7 @@ The project utilizes sales data stored in `DataSetVentes.xlsx`, with separate sh
    ```bash
    git clone https://github.com/your-repo-url/sales-analysis.git
    ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the analysis script:
+2. Run the analysis script:
    ```bash
    python main.py
    ```
@@ -94,4 +90,4 @@ Feel free to open issues or create pull requests to enhance the project.
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License.
