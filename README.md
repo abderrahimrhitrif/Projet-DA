@@ -59,7 +59,7 @@ The project utilizes sales data stored in `DataSetVentes.xlsx`, with separate sh
    ```
 2. Run the analysis script:
    ```bash
-   python main.py
+   jupyter notebook
    ```
 
 ## Dependencies
