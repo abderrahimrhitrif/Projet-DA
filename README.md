@@ -41,9 +41,7 @@ The project utilizes sales data stored in `DataSetVentes.xlsx`, with separate sh
 - Scatter plots to analyze relationships.
 - Correlation heatmaps to identify trends.
 
-### Example Visualization:
-![Sample Box Plot](output_8_0.png)
-
+  
 ## Project Highlights
 
 1. **Data Cleaning**:
